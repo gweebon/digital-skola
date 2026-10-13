@@ -1,3 +1,5 @@
+// tugas sesi 4
+
 function kalkulator(angka1, angka2, operator) {
     switch (operator) {
         case "+":
