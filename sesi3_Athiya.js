@@ -1,4 +1,4 @@
-// sesi2_Athiya.js
+// sesi3_Athiya.js
 
 let tinggi = 11;
 
